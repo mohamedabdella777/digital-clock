@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Orbitron:wght@400..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+.clock{
+    color: #00d9d9 ;
+    font-size: 70px;
+    font-family: sans-serif;
+    border: 0.1rem solid #00d9d9;
+    border-radius: 0.5rem;
+    padding: 1rem 2rem;
+      font-family: "Orbitron", sans-serif;
+}
